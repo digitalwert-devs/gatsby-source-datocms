@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-source-datocms",
-  "version": "5.1.5",
+  "name": "@digitalwert/gatsby-source-datocms",
+  "version": "1.0.0",
   "description": "Gatsby source plugin for building websites using DatoCMS as data source",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/datocms/gatsby-source-datocms.git"
+    "url": "git://github.com/digitalwert-devs/gatsby-source-datocms.git"
   },
   "scripts": {
     "prepare": "husky install",
